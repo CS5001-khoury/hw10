@@ -8,7 +8,7 @@ Functions included: load_list_from_file, save_list_to_file
 NAME: <your name>
 SEMESTER: <your semester>
 """
-from typing import Union
+from typing import Optional
 import csv
 import sys
 # you may or may not need the above imports depending on 
