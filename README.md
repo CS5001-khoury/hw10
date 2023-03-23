@@ -160,7 +160,6 @@ This is a two week assignment, so you will want to make sure you are working on 
    * Code is fully documented (docstring)
    * Test coverage is complete for classes
    * Questions answered in README.md correctly
-   * Full test coverage of classes
 
 
 AG - Auto-graded  
