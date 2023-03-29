@@ -47,7 +47,7 @@ You can then run the file, and it will run every method that starts with `test` 
 ## Class 2: ToDoList
 
 The ToDoList class is a collection of ListItem objects. It has the following properties:
-* name - the name of the list. This is public/able to modified directly .
+* name - the name of the list. This is public/able to modified directly. It should default to `"New List"` if no name is provided.
 * items - this should be a  private property that is a list of ListItem objects. It should be initialized to an empty list. At no point should anyone be able to access the items *outside* of the class.
 
 The ToDoList class should have the following methods:
